@@ -43,11 +43,11 @@ What is Shiny from Rstudio:
 - More Shiny basics: https://deanattali.com/blog/building-shiny-apps-tutorial/ (Dean Attali, the author of this tutorial is one of my clients)
 - Articles on Shiny: https://shiny.rstudio.com/articles/
 
-### Build Your Own Shiny App and put it on GitHub!
+### Build your own Shiny app and put it on GitHub!
 
 ### Full Books on Shiny
 
-- Mastering SHiny: https://github.com/hadley/mastering-shiny
+- Mastering Shiny: https://github.com/hadley/mastering-shiny
 - Engineering Production-Grade Shiny Apps: https://thinkr-open.github.io/building-shiny-apps-workflow/index.html
 
 
