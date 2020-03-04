@@ -1,15 +1,17 @@
 
 # Getting Started with R and Shiny
 
-A collection of resources for getting started in R and Shiny.  They are listed roughly in
-the order that we would expect a motivated beginner to work through them.
+Below is a collection of resources for getting started in R and Shiny.  They are listed roughly in the order that we would expect a motivated beginner to work through them.  
+
+Nick put together some additional resources that he found useful during his learning process in "nicks_fav_resourses.md".
+
 
 ### Getting Stated with R
 
-- download R here: https://cran.r-project.org/
-- download the free version of Rstudio here: https://www.rstudio.com/products/rstudio/download/
-- go throught this tutorial https://rladiessydney.org/courses/ryouwithme/
-- skim through this book and try out some examples: https://r4ds.had.co.nz/
+- Download R here: https://cran.r-project.org/
+- Download the free version of Rstudio here: https://www.rstudio.com/products/rstudio/download/
+- Go through this tutorial https://rladiessydney.org/courses/ryouwithme/
+- Skim through this book and try out some examples: https://r4ds.had.co.nz/
 
 
 ### Getting Started with GitHub
@@ -25,7 +27,7 @@ the order that we would expect a motivated beginner to work through them.
    - http://adv-r.had.co.nz/Data-structures.html
    - http://adv-r.had.co.nz/Subsetting.html
    - http://adv-r.had.co.nz/Style.html
-- work through this introduction to the dplyr package: https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html 
+- Work through this introduction to the dplyr package: https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html 
 
 
 ### Getting Started with Shiny
@@ -36,11 +38,12 @@ What is Shiny from Rstudio:
 - Read this book: https://laderast.github.io/gradual_shiny/
 - https://ourcodingclub.github.io/2017/03/07/shiny.html
 - Watch this video on the basics of web development:  https://www.youtube.com/watch?v=FXqTHsPaY0A
-- shiny basics: https://shiny.rstudio.com/articles/basics.html
-- more Shiny basics: https://deanattali.com/blog/building-shiny-apps-tutorial/ (Dean Attali, the author of this tutorial is one of my clients)
-- create a very basic Shiny app and put it on GitHub
+- Shiny basics: https://shiny.rstudio.com/articles/basics.html
+- More Shiny basics: https://deanattali.com/blog/building-shiny-apps-tutorial/ (Dean Attali, the author of this tutorial is one of my clients)
+- Create a very basic Shiny app and put it on GitHub
 - Read these: https://shiny.rstudio.com/articles/
-- create another small Shiny app 
+- Create another small Shiny app 
+
 
 ### More on Shiny
 

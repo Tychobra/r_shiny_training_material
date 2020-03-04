@@ -2,8 +2,6 @@
 
 - basic overview of shiny web apps(I found it particularly helpful to follow along with the "https://shiny.rstudio.com/images/shiny-cheatsheet.pdf"): https://vimeo.com/rstudioinc/review/131218530/212d8a5a7a/#t=43m32s
 
--  more Shiny basics: https://deanattali.com/blog/building-shiny-apps-tutorial/
-
 - overview of rstudio IDE and github interactions Part 1 and Part 2 -
    - https://resources.rstudio.com/wistia-rstudio-essentials-2/rstudioessentialsmanagingpart1-2
    - https://resources.rstudio.com/wistia-rstudio-essentials-2/rstudioessentialsmanagingpart2-2
