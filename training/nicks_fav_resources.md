@@ -29,7 +29,3 @@
 
 Built in tutorials for packages can be accessed through the learnr package.
 For example if you library learnr and tidyverse, the top right panel of RStudio can display a walk through of different functions in the tidyverse package.  Blog post describing package: https://blog.rstudio.com/2020/02/25/rstudio-1-3-integrated-tutorials/
-
-Jimmy Created a helpful instruction for how to load in excel data to R in useable format.  Also, how to work with things like pivot tables.  You can access this tutorial with example data in the 'training/example-excel-workflow' within this operations repository.
-
-
