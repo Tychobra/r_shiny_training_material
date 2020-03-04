@@ -3,7 +3,7 @@
 
 Below is a collection of resources for getting started in R and Shiny.  They are listed roughly in the order that we would expect a motivated beginner to work through them.  
 
-Nick put together some additional resources that he found useful during his learning process in "nicks_fav_resourses.md".
+Nick put together some additional resources that he found useful during his learning process in [nicks_fav_resourses.md](https://github.com/Tychobra/r_shiny_training_material/blob/master/nicks_fav_resources.md).
 
 
 ### Getting Stated with R
